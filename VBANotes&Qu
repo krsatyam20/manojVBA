@@ -1,0 +1,60 @@
+function 
+	sub :smal command
+	function :large 
+	
+	function 
+			Predefine/System Define
+					inbild with system 
+			User Define /custome 	
+			    Developed by user
+				
+	function: block which is write one time and use many time 
+		
+			four types
+				
+				=>no arguments no return
+				=>no arguments with return
+				=>with arguments with return
+				=>with arguments no return
+				
+				
+			arguments:value which is given by user on run time 
+				sum(10,20)
+					sum is a function and 10 and 20 is a arguments
+					it`s min one and more then one 
+					
+			return: result after function call recived output is called return
+				Note: only one return in any function 
+				
+				
+Data :value 
+		Data types	
+			Number
+				integer(0-9)
+				float(0.0-9.9)
+				double(0.00-9.99)
+				
+			String
+			   char any letter(special / alphanumeric )
+			   string  combination of char 
+				"string"
+				
+				
+	10 integer
+	"10" string
+ value :
+variable : variable is a memory location where we can stroe our value 
+
+	a=10 (= assign operator)
+	
+	A data type 
+	
+Dim VariableName DataType
+
+Question A1: WAP to input roll number, name, marks and phone of a student and display the values.
+Question A2: WAP to input roll number, name and marks of a student in 5 subjects and calculate the total and average marks. Display all the values.marks
+Question A3: WAP to find out the square of a given number.
+Question A4: WAP to input a number and print its cube.		
+Question A5: WAP to input radius and calculate the area and circumference of a circle.
+Question A6: WAP to input length and breadth of a rectangle and calculate the area and perimeter.
+ 	
